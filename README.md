@@ -1,4 +1,4 @@
-# Serendipity or Hallucination? — code
+# Serendipity or Hallucination?
 
 Code for the paper "Serendipity or Hallucination? Grounded Evaluation of LLM-Based Recommender Systems" (A. H. Afridi, F. A. Khan, F. Sohrab). It audits three open-weight LLMs (Qwen2.5-7B, Llama-3.1-8B, Gemma-3-12B) on Serendipity-2018 (movies) and Amazon Reviews 2023 All Beauty (products) under matched relevance and serendipity prompts.
 
