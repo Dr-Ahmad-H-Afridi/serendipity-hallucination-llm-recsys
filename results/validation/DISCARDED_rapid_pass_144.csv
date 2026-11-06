@@ -1,0 +1,145 @@
+vid,stratum,ds,title,h_real,h_dir
+v000,m_dir,movies,The Iceman,real,unsure
+v001,m_ooc,movies,The One and Only Ivan,unsure,unsure
+v002,m_ooc,movies,Upgrade,unsure,unsure
+v003,b_unm,beauty,Redken Extreme Anti-Frizz Serum,unsure,
+v004,b_ic,beauty,The Ordinary Niacinamide 10% + Zinc 1%,fab,
+v005,b_ic,beauty,Revlon One-Step Hair Dryer and Volumizer Hot Air Brush,unsure,
+v006,m_ic,movies,Sicario,real,yes
+v007,b_unm,beauty,Kiehl's Ultra Facial Cream,fab,
+v008,m_fab,movies,The Adventures of Tintin: The Secret of the Unicorn,fab,no
+v009,m_ooc,movies,Knives Out,real,unsure
+v010,b_unm,beauty,"BareMinerals Prime Time Eyecare Makeup Remover Wipes, 30 Count",fab,
+v011,m_dir,movies,My Life as a Dog,fab,unsure
+v012,m_ic,movies,The Silence of the Lambs,real,unsure
+v013,b_unm,beauty,Laneige Lip Sleeping Mask - Fragrance Free,fab,
+v014,b_unm,beauty,Glamglow Supermud Clearing Treatment Mask - 1.75 fl oz,real,
+v015,m_ooc,movies,Spider-Man: Into the Spider-Verse,fab,no
+v016,m_fab,movies,The Pope of Salzburg,real,yes
+v017,m_ooc,movies,The Grand Illusion,real,unsure
+v018,m_fab,movies,Ghost in the Shell: Stand Alone Complex,unsure,unsure
+v019,m_fab,movies,Hunt for the Wilderpig,unsure,
+v020,b_unm,beauty,"Kiehl's Calendula & Aloe Vera Soothing Serum, 1 fl oz",unsure,
+v021,m_fab,movies,Hunt for the Wilderpig,unsure,unsure
+v022,m_dir,movies,The Wind in the Willows,unsure,unsure
+v023,b_unm,beauty,OSEA Malibu Ocean Cleanser - Vegan Facial Cleanser for All Skin Types - 6 oz,real,
+v024,m_fab,movies,The DuPont in Winter,unsure,unsure
+v025,b_unm,beauty,"Paula's Choice Calm Redness Relief Complexion Corrector, 1 oz",fab,
+v026,m_ic,movies,A Pigeon Sat on a Branch Reflecting on Existence,unsure,unsure
+v027,m_ooc,movies,The One and Only Ivan,unsure,unsure
+v028,m_ic,movies,Whiplash,real,yes
+v029,b_ic,beauty,Mad Hippie Vitamin C Serum,unsure,
+v030,b_ic,beauty,Sunday Riley Power Couple,real,
+v031,b_unm,beauty,Rare Beauty by Selena Gomez SoftMatte Lip Crayon,real,
+v032,b_unm,beauty,Garnier SkinActive Brightening Vitamin C Serum,real,
+v033,m_fab,movies,Hunt for the Wilderpig,real,yes
+v034,b_unm,beauty,Wet Brush Original Detangling Hair Brush,real,
+v035,b_unm,beauty,"BareMinerals Prime Time Foundation Primer, 1 oz",real,
+v036,b_unm,beauty,Wet n Wild MegaGlo Highlighting Powder - Reserve Your Rose,unsure,
+v037,b_ic,beauty,Tangle Teezer The Original Hair Brush - Detangling Brush for Wet and Dry Hair - All Hair Types,unsure,
+v038,b_unm,beauty,Laneige Cream Skin - Refill Pack (100ml),real,
+v039,b_unm,beauty,MAC Cosmetics Studio Fix Fluid SPF 15,unsure,
+v040,m_dir,movies,The Secret Life of Walter Mitty,real,yes
+v041,m_ic,movies,The Town,fab,no
+v042,b_unm,beauty,REN Clean Skincare Glycol Lactic Radiance Renewal Mask,unsure,
+v043,m_dir,movies,Local Hero,real,unsure
+v044,m_fab,movies,The Theory of Everything: The Early Years,real,yes
+v045,b_unm,beauty,Kiehl's Since 1851 Avocado Butter Cleanser - Nourishing Cleansing Balm for Face & Eye Makeup Removal - Gentle Cleanser for Dry Skin - 3.5 oz,unsure,
+v046,b_unm,beauty,"Sunday Riley Good Genes, 1 oz",real,
+v047,m_dir,movies,The Girl with the Dragon Tattoo,real,unsure
+v048,b_unm,beauty,"Buxom Full-On Lip Cream, 0.25 oz",real,
+v049,m_fab,movies,Scott Pilgrim Gets It All Together,unsure,unsure
+v050,m_ic,movies,Singin' in the Rain,unsure,unsure
+v051,m_ooc,movies,Avengers: Infinity War,real,yes
+v052,b_unm,beauty,"Mario Badescu Facial Spray with Aloe, Chamomile and Lavender - 1.7 oz",real,
+v053,b_unm,beauty,"La Roche-Posay Toleriane Ultra Fluid, 1.35 fl oz",unsure,
+v054,b_unm,beauty,"Paula's Choice 2% BHA Liquid Acid, 6 fl oz",unsure,
+v055,m_ooc,movies,Avengers: Infinity War,unsure,unsure
+v056,b_unm,beauty,Glossier Boy Brow Clear Brow Gel,real,
+v057,m_ooc,movies,The Ballad of Buster Scruggs,unsure,no
+v058,m_ooc,movies,Portrait of a Lady on Fire,unsure,unsure
+v059,m_fab,movies,Hunt for the Wilderpigman,unsure,unsure
+v060,b_unm,beauty,OPI Nail Polish - Bubble Bath,real,
+v061,b_unm,beauty,Kérastase Resistance Bain Force Anti-Chauffage Shampoo,real,
+v062,m_fab,movies,The World's Largest Video Store,unsure,unsure
+v063,m_dir,movies,The Departed,real,unsure
+v064,b_unm,beauty,"SkinCeuticals C E Ferulic, 1 oz",unsure,
+v065,b_unm,beauty,Garnier SkinActive Visible Lift Retinol Night Serum,real,
+v066,b_unm,beauty,"Dermalogica Daily Moisturizer, 1.7 fl oz",real,
+v067,b_unm,beauty,Benefit Cosmetics Gimme Brow+ Tinted Volumizing Eyebrow Gel,real,
+v068,m_ic,movies,The Science of Sleep,real,yes
+v069,b_unm,beauty,St. Tropez Express Bronzing Mousse - 150ml,real,
+v070,b_unm,beauty,DedCool Fragrance Oil - Taunt - 2 oz,real,
+v071,m_ic,movies,Mad Max: Fury Road,real,yes
+v072,m_ooc,movies,The Grand Illusion,unsure,unsure
+v073,b_unm,beauty,Tweezerman Mini Slant Tweezers,real,
+v074,m_dir,movies,The Intouchables,real,yes
+v075,b_unm,beauty,Neutrogena Hydro Boost Water Gel,real,
+v076,m_ooc,movies,Possessor,unsure,unsure
+v077,m_dir,movies,The Witch,real,unsure
+v078,m_ic,movies,The Cider House Rules,real,unsure
+v079,m_fab,movies,The Innocent and the Punished,real,unsure
+v080,m_dir,movies,The Iron Giant,real,unsure
+v081,b_unm,beauty,Tatcha Luminous Dew - 1.7 fl oz,real,
+v082,m_ooc,movies,The Blackcoat's Daughter,real,unsure
+v083,b_unm,beauty,Dr. Jart+ Cicapair Soothing Gel Cream,real,
+v084,m_dir,movies,The Iceman Cometh,real,unsure
+v085,b_unm,beauty,EcoTools Six Piece Starter Brush Set,real,
+v086,b_ic,beauty,Clinique Dramatically Different Moisturizing Gel,real,
+v087,b_unm,beauty,"Dr. Jart+ Dermaclar Clearing Solution, 1.69 fl oz",real,
+v088,m_ooc,movies,The Hourglass Sanatorium,real,unsure
+v089,b_unm,beauty,Garnier SkinActive Super Hydrating Moisturizer SPF 30,real,
+v090,m_ooc,movies,The Peanut Butter Falcon,fab,unsure
+v091,m_fab,movies,Huntman,real,yes
+v092,b_unm,beauty,"Klorane Nourishing Shampoo for Dry or Damaged Hair, 6.7 fl oz",real,
+v093,m_fab,movies,The Theory of Everything: The Einstein Exhibition,fab,unsure
+v094,b_unm,beauty,La Roche-Posay Effaclar Duo+,fab,
+v095,b_unm,beauty,Revlon ColorStay Brow Defining Pencil - Soft Brown,real,
+v096,m_fab,movies,Hunt for the Wilderpig,fab,unsure
+v097,b_unm,beauty,"Klorane Gentle Exfoliating Mask, 1.7 oz",real,
+v098,m_ic,movies,Inside Out,real,yes
+v099,b_unm,beauty,Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant,real,
+v100,m_fab,movies,"Huntman, The",real,yes
+v101,b_ic,beauty,Rare Beauty Soft Pinch Liquid Blush - Joy,real,
+v102,m_ic,movies,Interstellar,real,yes
+v103,b_ic,beauty,Sunday Riley Power Couple,unsure,
+v104,b_unm,beauty,GlamGlow Supermud Charcoal Treatment Mask,real,
+v105,m_dir,movies,Upgrade,unsure,unsure
+v106,b_unm,beauty,"Essie Nail Polish, 0.5 fl oz, 100 Lasting Nail Color",real,
+v107,b_unm,beauty,FOREO LUNA 3 Facial Cleansing Massager for Sensitive Skin - Rose,real,
+v108,m_ooc,movies,The Favourite,fab,unsure
+v109,m_dir,movies,Columbus (2017),fab,unsure
+v110,b_ic,beauty,"Biossance Squalane + Vitamin C Rose Oil, 1 oz",real,
+v111,m_fab,movies,The Man from the Sky,unsure,unsure
+v112,b_unm,beauty,"Lash Out! Lash Curler, Eyelash Curler for Natural Lash Curl, No Damage, No Heat, No Glue",real,
+v113,m_dir,movies,The Man from London,unsure,unsure
+v114,m_ic,movies,The Duellists,unsure,unsure
+v115,b_unm,beauty,CeraVe Moisturizing Cream,real,
+v116,b_unm,beauty,Peltor Face Mask Bracket Adjustable Ear Saver Soft Comfort Adjustable Mask Holder,real,
+v117,m_fab,movies,The Science of Falling in Love,real,yes
+v118,b_unm,beauty,"Glow Recipe Water-Infused Plumping Mask, 1.7 oz",real,
+v119,m_fab,movies,Gladiator: Sword of Destiny,fab,no
+v120,m_ooc,movies,The Hate U Give,unsure,no
+v121,m_fab,movies,The Last Days of Heinrich Müller,real,yes
+v122,b_unm,beauty,"L'Occitanne Shea Butter Extra Gentle Body Cream, 16.7 fl oz",real,
+v123,b_ic,beauty,Sunday Riley Power Couple - 1 oz,real,
+v124,m_fab,movies,Hunt for the Wilderpig,unsure,unsure
+v125,b_ic,beauty,"The Ordinary Niacinamide 10% + Zinc 1%, 30ml",real,
+v126,b_unm,beauty,Farmacy Green Clean Cleansing Balm - Makeup Remover & Facial Cleanser - 2.5 oz,real,
+v127,m_fab,movies,Gladiator: Sword of Vengeance,fab,no
+v128,m_fab,movies,A Pup Named Scooby-Doo,unsure,unsure
+v129,b_unm,beauty,Neutrogena Hydro Boost Water Gel,real,
+v130,b_unm,beauty,Benefit Cosmetics Gimme Some Moisturizing Tinted Lip Balm,unsure,
+v131,m_dir,movies,The Bourne Legacy,unsure,unsure
+v132,b_unm,beauty,ILIA Skin Perfector,real,
+v133,b_unm,beauty,The Ordinary Hyaluronic Acid 2% + B5,unsure,
+v134,b_unm,beauty,"Lancôme Juicy Tubes Lipstick, 3-Pack",unsure,
+v135,m_ooc,movies,The Matrix Resurrections,real,unsure
+v136,m_dir,movies,Columbus,real,unsure
+v137,m_fab,movies,Scott Pilgrim Again!,real,unsure
+v138,m_dir,movies,The Triplets of Belleville,fab,unsure
+v139,b_unm,beauty,Peter Thomas Roth Cucumber Cooling Eye Gel,unsure,
+v140,m_dir,movies,Columbus,real,unsure
+v141,b_ic,beauty,First Aid Beauty Ultra Repair Cream,real,
+v142,b_unm,beauty,"Acure Organics Seriously Soothing Facial Cream, 1.7 fl oz",real,
+v143,b_unm,beauty,Sunday Riley Good Genes All-In-One Lactic Acid Treatment,real,
