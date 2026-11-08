@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Serendipity or Hallucination? Grounded Evaluation of LLM-Based Recommender Systems"
+authors:
+  - family-names: Afridi
+    given-names: Ahmad Hassan
+    orcid: "https://orcid.org/0000-0001-6761-1605"
+  - family-names: Khan
+    given-names: Fakhri Alam
+  - family-names: Sohrab
+    given-names: Fahad
+year: 2026
+license: MIT

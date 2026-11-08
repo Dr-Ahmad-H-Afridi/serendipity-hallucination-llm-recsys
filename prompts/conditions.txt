@@ -1,0 +1,4 @@
+In the movie prompt the first occurrence of "items" is replaced by "movies"; in the product prompt by "real beauty products sold on Amazon".
+
+RELEVANCE:   Recommend 10 items this user is most likely to enjoy.
+SERENDIPITY: Recommend 10 items that would be a pleasant surprise for this user: items they would genuinely enjoy, but that are unexpected given their history and that they would be unlikely to find on their own.

@@ -1,0 +1,7 @@
+{
+ "n_pairs": 2150,
+ "ser_share": 0.09581395348837209,
+ "nov_auc_for_serendipitous": 0.5597357065803668,
+ "nov_auc_p": 0.004750773068175525,
+ "rho_pred_vs_rating": NaN
+}

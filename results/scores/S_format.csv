@@ -1,0 +1,13 @@
+m,ds,cond,lists,valid_json,mean_items,lists_with_dup
+Gemma-3-12B,beauty,relevant,200,100.0,10.0,0.0
+Gemma-3-12B,beauty,serendipity,200,100.0,10.0,0.0
+Gemma-3-12B,movies,relevant,200,94.0,10.0,1.0
+Gemma-3-12B,movies,serendipity,200,94.5,10.0,9.5
+Llama-3.1-8B,beauty,relevant,200,96.0,10.0,2.0
+Llama-3.1-8B,beauty,serendipity,200,95.5,10.0,0.5
+Llama-3.1-8B,movies,relevant,200,90.5,9.96,6.5
+Llama-3.1-8B,movies,serendipity,200,99.0,9.96,6.5
+Qwen2.5-7B,beauty,relevant,200,94.5,10.0,1.0
+Qwen2.5-7B,beauty,serendipity,200,100.0,10.0,0.0
+Qwen2.5-7B,movies,relevant,200,95.0,9.84,5.0
+Qwen2.5-7B,movies,serendipity,200,94.5,9.96,7.5

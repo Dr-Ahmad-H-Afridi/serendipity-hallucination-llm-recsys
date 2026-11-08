@@ -1,0 +1,7 @@
+m,cond,S,GS,ratio_of_means,mean_ratio_incl0,mean_ratio_excl0,n_excl
+Gemma-3-12B,relevant,0.263,0.196,25.7,20.6,20.7,199
+Gemma-3-12B,serendipity,0.391,0.272,30.4,27.0,27.0,200
+Llama-3.1-8B,relevant,0.264,0.214,18.9,13.4,13.7,195
+Llama-3.1-8B,serendipity,0.417,0.3,28.2,24.4,24.4,200
+Qwen2.5-7B,relevant,0.106,0.079,25.9,15.4,16.9,183
+Qwen2.5-7B,serendipity,0.129,0.108,16.2,11.9,12.4,192

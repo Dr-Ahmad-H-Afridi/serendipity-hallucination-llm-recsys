@@ -1,0 +1,9 @@
+question,n,agreement,kappa
+Movies: title status (4 categories),30,93.3,0.9
+Movies: real vs not real,30,93.3,0.86
+Movies: year correct,30,93.3,0.88
+Movies: director correct,30,90.0,0.84
+"Movies: director, both judged real",16,93.8,0.88
+Products: status (5 categories),30,80.0,0.65
+Products: real vs not real,30,90.0,0.53
+Products: brand correct,30,86.7,0.43

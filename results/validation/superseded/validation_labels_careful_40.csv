@@ -1,0 +1,41 @@
+vid,stratum,ds,model,cond,title,year,director,brand,human_exists,human_director,seconds
+w00,b_unm,beauty,qwen/qwen-2.5-7b-instruct,serendipity,Kiehl's Ultra Facial Oil-Free Gel Cream,,,Kiehl's,real,,3.649
+w01,m_dir,movies,qwen/qwen-2.5-7b-instruct,serendipity,The Iron Giant,1999.0,Walt Disney Animation Studios,,real,no,25.782
+w02,m_fab,movies,meta-llama/llama-3.1-8b-instruct,relevant,The DuPont in Winter,1961.0,John Frankenheimer,,real,,54.327
+w03,b_unm,beauty,meta-llama/llama-3.1-8b-instruct,relevant,"Hair Ties by Invisibobble, 100-Count, Assorted Colors",,,Invisibobble,real,,11.67
+w04,m_ic,movies,meta-llama/llama-3.1-8b-instruct,relevant,The Killing Fields,1984.0,Roland Joffé,,real,yes,34.384
+w05,b_unm,beauty,qwen/qwen-2.5-7b-instruct,relevant,"Fenty Beauty Pro Filt'r Soft Matte Longwear Foundation, 1.7 Fl Oz",,,Fenty Beauty,real,,216.227
+w06,m_fab,movies,qwen/qwen-2.5-7b-instruct,relevant,The Adventures of Tintin: The Secret of the Unicorn,2011.0,Steven Spielberg,,real,,10.463
+w07,m_ooc,movies,meta-llama/llama-3.1-8b-instruct,relevant,The One and Only Ivan,2020.0,Thea Sharrock,,real,yes,11.932
+w08,m_fab,movies,qwen/qwen-2.5-7b-instruct,serendipity,Scott Pilgrim's Precious Little Life,2011.0,Edgar Wright,,real,,12.026
+w09,m_dir,movies,meta-llama/llama-3.1-8b-instruct,relevant,The Man from Earth,2007.0,Mark Levin,,real,no,9.4
+w10,m_fab,movies,google/gemma-3-12b-it,serendipity,A Pigeon's Romance (Una Historia de Locura),2018.0,Fernando de Fuentes,,real,,15.435
+w11,m_ic,movies,google/gemma-3-12b-it,serendipity,Local Hero,1983.0,Bill Forsyth,,real,yes,12.409
+w12,b_ic,beauty,qwen/qwen-2.5-7b-instruct,relevant,"Bleach Blonde Wavy Wig with Bangs for White Women 26"" Long Wavy Ombre Wigs with Air Bangs Heat-Resistant",,,NOBLE,real,,8.054
+w13,b_unm,beauty,google/gemma-3-12b-it,serendipity,"Rare Beauty by Selena Gomez Soft Pinch Liquid Blush, Joy",,,Rare Beauty,real,,7.604
+w14,b_unm,beauty,google/gemma-3-12b-it,serendipity,"L'Oreal Paris Infallible 24HR Fresh Wear Foundation - Radiant, 10 Ivory",,,L'Oreal Paris,real,,14.908
+w15,m_dir,movies,qwen/qwen-2.5-7b-instruct,serendipity,The Secret Life of Walter Mitty,2013.0,Jason Reitman,,real,no,14.12
+w16,m_fab,movies,qwen/qwen-2.5-7b-instruct,serendipity,The Lives of Others: A Love Story,2006.0,Florian Henckel von Donnersmarck,,real,,51.91
+w17,m_fab,movies,meta-llama/llama-3.1-8b-instruct,relevant,The Man Who Was Saturday Night,1967.0,Lamont Johnson,,fab,,17.978
+w18,m_fab,movies,google/gemma-3-12b-it,serendipity,"Huntman, The (Der Fänger der Träume)",1979.0,Werner Herzog,,unsure,,9.567
+w19,b_unm,beauty,qwen/qwen-2.5-7b-instruct,serendipity,Drunk Elephant T.L.C. Framboos Glycolic Night Serum,,,Drunk Elephant,real,,8.532
+w20,m_ooc,movies,meta-llama/llama-3.1-8b-instruct,serendipity,The Blackcoat's Daughter,2015.0,Kiernan Cunningham,,real,no,13.878
+w21,m_ooc,movies,meta-llama/llama-3.1-8b-instruct,serendipity,The Straight Edge,2007.0,James Fargo,,real,unsure,21.591
+w22,m_dir,movies,meta-llama/llama-3.1-8b-instruct,serendipity,The Straight Edge,2007.0,James Scurlock,,real,no,104.901
+w23,b_ic,beauty,qwen/qwen-2.5-7b-instruct,relevant,"Laura Mercier Translucent Loose Setting Powder, 0.68 oz",,,Laura Mercier,real,,6.675
+w24,m_fab,movies,google/gemma-3-12b-it,relevant,The Adventures of Buckaroo Banzai,1984.0,Walter Hill,,real,,8.321
+w25,m_fab,movies,google/gemma-3-12b-it,serendipity,Hunt for the Wilderpig (Jagten),2012.0,Thomas Vinterberg,,fab,,16.255
+w26,m_fab,movies,meta-llama/llama-3.1-8b-instruct,relevant,The One Beyond,2001.0,Simon Cellan Jones,,unsure,,14.194
+w27,m_ic,movies,meta-llama/llama-3.1-8b-instruct,relevant,The Big Sick,2017.0,Michael Showalter,,real,yes,8.6
+w28,m_fab,movies,meta-llama/llama-3.1-8b-instruct,serendipity,The Science of Falling in Love,2008.0,Tom DiCillo,,fab,,27.448
+w29,m_fab,movies,meta-llama/llama-3.1-8b-instruct,serendipity,The Secret in the Wheat,2016.0,Pascal Bonitzer,,real,,346.065
+w30,m_fab,movies,meta-llama/llama-3.1-8b-instruct,relevant,The Man in the Gray Suit,1956.0,Nunnally Johnson,,real,,5.363
+w31,m_fab,movies,qwen/qwen-2.5-7b-instruct,serendipity,The Theory of Everything: The Early Years,2020.0,James Marsh,,fab,,8.197
+w32,m_fab,movies,qwen/qwen-2.5-7b-instruct,serendipity,The Lives We Choose,2015.0,Ramin Bahrani,,real,,353.611
+w33,m_dir,movies,google/gemma-3-12b-it,relevant,Upgrade,2018.0,Liam Liang,,real,unsure,121.899
+w34,m_fab,movies,qwen/qwen-2.5-7b-instruct,relevant,The Theory of Everything: Part II,2019.0,Various,,fab,,9.492
+w35,b_unm,beauty,qwen/qwen-2.5-7b-instruct,serendipity,Garnier SkinActive Caffeine Anti-Puff Eye Cream,,,Garnier,real,,10.252
+w36,b_unm,beauty,google/gemma-3-12b-it,relevant,NYX Professional Makeup Can't Stop Won't Stop Contour Wand,,,NYX Professional Makeup,real,,32.324
+w37,m_dir,movies,qwen/qwen-2.5-7b-instruct,relevant,Taken,2008.0,Louis Leterrier,,real,no,6.096
+w38,m_fab,movies,google/gemma-3-12b-it,serendipity,"Huntman, The",2012.0,Cedric Nicolas-Troyan,,real,,9.167
+w39,m_fab,movies,meta-llama/llama-3.1-8b-instruct,relevant,The Pope of Salzburg,1965.0,Hans Jaray,,real,,19.732
